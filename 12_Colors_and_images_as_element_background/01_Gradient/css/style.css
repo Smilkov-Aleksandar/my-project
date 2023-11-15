@@ -1,0 +1,7 @@
+.gradient {
+    background-color: blue;
+    background-image: linear-gradient(blue,green);
+    width: 500px;
+    height: 200px;
+}
+

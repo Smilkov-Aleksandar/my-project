@@ -1,0 +1,36 @@
+body {
+  padding: 20px;
+  font-size: 1.5rem;
+  font-family: sans-serif;
+
+}
+
+hr {
+  border:0;
+  border-bottom: 2px solid #ddd;
+  margin: 40px 0;
+
+}
+
+.title {
+  color: crimson;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  padding: 00px;
+  margin: 00px;
+
+}
+
+.books {
+  list-style: decimal;
+  padding: 00px;
+  margin: 10px;
+}
+
+
+
+

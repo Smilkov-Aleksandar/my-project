@@ -1,0 +1,30 @@
+p{
+        font-family: "serif";
+    font-size: 20px;
+    line-height: 2em;
+    color: #555;
+
+    }
+h1{
+    font-family: "serif";
+    text-transform: uppercase;
+    font-size: 2.5em;
+    color: brown;
+    font-weight: normal;
+
+}
+
+h2{
+    font-family: "serif";
+    text-transform: uppercase;
+    font-size: 2.5em;
+    color: brown;
+    font-weight: normal;
+}
+
+cite{
+    background-color: #eee;
+    font-family: cursive;
+    color:#777;
+
+}
